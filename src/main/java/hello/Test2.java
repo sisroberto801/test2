@@ -5,6 +5,7 @@ package hello;
  */
 public class Test2 {
     public void showed(){
+
         System.out.println("wellcome");
     }
 }
